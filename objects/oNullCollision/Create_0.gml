@@ -1,0 +1,4 @@
+execute = function(actor)
+{
+	return;
+}
